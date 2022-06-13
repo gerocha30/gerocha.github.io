@@ -311,7 +311,8 @@ footer img{
         align-items: center;
         flex-wrap: wrap;
         width: 250px; 
-        transition: 0.5s;  
+        transition: 0.5s;
+        margin-left: 65px;  
     }
 
     .cards img{
