@@ -269,14 +269,15 @@ footer img{
         position: relative;
         text-align: center;
         font-weight: bold;
-        background-color: aliceblue;
+        font-size: 10px;
+        background-color: rgba(192, 192, 192, 0.8);
         flex-wrap: wrap;
         border: 3px solid black;
-        width: 500px;
-        height: 100px;
-        bottom: 130px;
-        right: 370px;
-        padding: 20px;
+        width: 300px;
+        height: 90px;
+        bottom: 100px;
+        right: 480px;
+        padding: 15px;
         border-radius: 20px;
     }
 
@@ -366,7 +367,7 @@ footer img{
     }
 
     header img{
-        width: 600px;
+        width: 180px;
     }
 
     nav{
